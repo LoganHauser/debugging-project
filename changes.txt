@@ -1,0 +1,21 @@
+error.java:
+1. Renamed file to Main.java to match the class name.
+2. Changed "printlm" to "println" on line 10.
+3. Changed "For" to "for" on line 13.
+4. Changed "Int" to "int" on line 13.
+5. Changed ":" to ";" on line 13.
+6. Changed ">" to "<" on line 13 to allow for loop to run.
+7. Changed "print" to "println" on line 17 to prevent multiple
+   print statements from printing to the same line.
+8. Changed "system" to "System" on line 20.
+9. Changed "print" to "println" on line 20 to prevent multiple
+   print statements from printing to the same line.
+10. Move if/else statement from line 16 into the for loop above it.
+11. Add a main method and move all code into it.
+
+HelloWorld.java:
+1. Add a semicolon to the end of line 5.
+2. Replace colon at the end of line 6 with a semicolon.
+
+HelloWorldBad.java
+1. Changed "=" to "==" on line 7.
